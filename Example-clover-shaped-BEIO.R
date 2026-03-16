@@ -1,5 +1,5 @@
 source('KarpCPP.R')
-source('CenterOutwardQuantilesOT.R')
+source('CenterOutwardContourOT.R')
 
 ## Example 1
 set.seed(532342)
